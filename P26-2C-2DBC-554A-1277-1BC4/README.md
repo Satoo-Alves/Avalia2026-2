@@ -4,7 +4,8 @@
 - **RA:** 2026108955
 - **Turma:** 2C
 - **Chave Única Oficial (Hash):** `P26-2C-2DBC-554A-1277-1BC4`
-- **Licença:** MIT (`LICENSE`)
+- **Licença:** MIT (`LICENSE`) 
+- **URL_CLOUDFLARE:** https://projeto-p26-2c-2dbc-554a-1277-1bc4.pages.dev
 
 ## Visão Geral da Arquitetura
 
